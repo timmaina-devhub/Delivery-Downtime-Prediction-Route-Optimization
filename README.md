@@ -103,6 +103,7 @@ The project demonstrates how meaningful feature engineering and careful modeling
 ## Project Structure
 ├── data/
 ├── notebooks/
+├──dashboard
 ├── models/
 ├── README.md
 ```
