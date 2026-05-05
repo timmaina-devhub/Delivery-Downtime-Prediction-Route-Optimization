@@ -118,11 +118,11 @@ The project demonstrates how meaningful feature engineering and careful modeling
 
 ## Dashboard Preview
 
-![Dashboard Preview](./logistica_overview.png)
+![Dashboard Preview](./logistics_overview.png)
 
 
 ---
 
-![Dashboard Preview](./inventory_alert_dashboard.png)
+![Dashboard Preview](./logistics_traffic.png)
 
 ---
