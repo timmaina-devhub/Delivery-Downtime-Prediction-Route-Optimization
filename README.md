@@ -114,3 +114,15 @@ The project demonstrates how meaningful feature engineering and careful modeling
 - Perform feature importance and SHAP analysis
 - Integrate real-time traffic and weather APIs
 - Build a deployment-ready prediction API
+---
+
+## Dashboard Preview
+
+![Dashboard Preview](./logistica_overview.png)
+
+
+---
+
+![Dashboard Preview](./inventory_alert_dashboard.png)
+
+---
