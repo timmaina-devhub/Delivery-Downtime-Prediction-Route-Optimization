@@ -126,3 +126,9 @@ The project demonstrates how meaningful feature engineering and careful modeling
 ![Dashboard Preview](./logistics_traffic.png)
 
 ---
+![Dashboard Preview](./logistics_operations.png)
+
+---
+![Dashboard Preview](./logistics_summary_insights.png)
+
+---
