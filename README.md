@@ -129,6 +129,11 @@ The project demonstrates how meaningful feature engineering and careful modeling
 ![Dashboard Preview](./logistics_operations.png)
 
 ---
+## Project API Repository
+
+* The API repository for this project is at: <a href='https://github.com/timmaina-devhub/delay-predictor-app' target='_blank'>Delivery Downtime App</a>
+
+---
 ![Dashboard Preview](./logistics_summary_insights.png)
 
 ---
